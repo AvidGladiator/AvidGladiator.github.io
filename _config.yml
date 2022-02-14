@@ -4,7 +4,7 @@ markdown: kramdown
 
 permalink: /work/:year/:month/:day/:title
 
-collections:
+description: "Joe Benson's Portfolio"
 
 plugins:
  - jekyll-sitemap
