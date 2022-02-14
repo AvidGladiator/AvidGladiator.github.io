@@ -1,0 +1,18 @@
+name: Joe Benson
+
+markdown: kramdown
+
+permalink: /work/:year/:month/:day/:title
+
+collections:
+
+plugins:
+ - jekyll-sitemap
+
+gems:
+ - jekyll-sitemap
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
